@@ -6,7 +6,7 @@ Retrotech, sex tech, gamedev, and more.
 
 ## Trivia
 
-- Anarchist hacker in the 2600 style - be gay, do crime
+- Anarchist hacker in the 2600 style - be gay, do crime, fuck ma bell
 - Lockpicking enthusiast
 - Taught C by my mother and QBasic by my father
 - Connoisseur of absurd software licenses
