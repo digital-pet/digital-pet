@@ -1,8 +1,6 @@
 # readme.nfo
 
-> Every line of code I write is to spite the people who told me I couldn't.
-
-Retrotech, sex tech, gamedev, and more.
+Retrotech, gamedev, and more.
 
 ## Trivia
 
