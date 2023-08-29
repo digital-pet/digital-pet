@@ -10,7 +10,6 @@ Retrotech, gamedev, and more.
 - Connoisseur of absurd software licenses
 - Owns enough pinafore dresses I could be either a kindergarten teacher or a Laura Bailey cosplayer
 - Made [this insanity](https://www.youtube.com/watch?v=oe1bUSDDeKs) in modded Factorio. It was just as inefficient as it looks.
-- If my code was helpful, I have a [patreon](https://www.patreon.com/honkhonkhonk)
 - My TTRPG characters:
      - a fallen evangelical who failed at becoming a martyr and just became a drunk instead
      - a warlock carnie with a bored, immortal, and immoral level 20 wizard as a patron
