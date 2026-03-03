@@ -13,3 +13,5 @@ Retrotech, gamedev, and more.
 - My TTRPG characters:
      - a fallen evangelical who failed at becoming a martyr and just became a drunk instead
      - a warlock carnie with a bored, immortal, and immoral level 20 wizard as a patron
+
+### Not legal for use in the state of California.
